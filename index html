@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>অধিকারবঞ্চিতদের রাষ্ট্র</title>
+  <style>
+    body {
+      background-color: #f9fafb;
+      font-family: 'Segoe UI', sans-serif;
+      color: #111827;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    }
+    header {
+      background-color: #1f2937;
+      color: white;
+      padding: 20px;
+    }
+    h1 {
+      margin: 0;
+      font-size: 2em;
+    }
+    section {
+      padding: 30px 15px;
+    }
+    .flag {
+      margin-top: 20px;
+      width: 250px;
+      border: 3px solid #374151;
+      border-radius: 10px;
+    }
+    footer {
+      background-color: #e5e7eb;
+      padding: 15px;
+      font-size: 0.9em;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>অধিকারবঞ্চিতদের রাষ্ট্র</h1>
+    <p>ভূমিহীন ও অধিকারবঞ্চিতদের জন্য একটি মুক্ত রাষ্ট্র</p>
+  </header>
+
+  <section>
+    <h2>আমাদের পতাকা</h2>
+    <img class="flag" src="flag.png" alt="রাষ্ট্রের পতাকা">
+  </section>
+
+  <section>
+    <h2>নাগরিকদের জন্য বার্তা</h2>
+    <p>এই রাষ্ট্র বিশ্বের সমস্ত ভূমিহীন মানুষের অধিকার প্রতিষ্ঠার জন্য প্রতিষ্ঠিত হয়েছে।</p>
+  </section>
+
+  <footer>
+    &copy; ২০২৫ | The State of the Dispossessed | dispossessedpresident
+  </footer>
+
+</body>
+</html>
